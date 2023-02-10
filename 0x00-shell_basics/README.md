@@ -1,1 +1,3 @@
-Shell basics
+contents list of your current directory.
+
+
